@@ -32,7 +32,7 @@ namespace RPSGame
                 Console.WriteLine("1.Rock");
                 Console.WriteLine("2.Paper");
                 Console.WriteLine("3.Scissors");
-
+                 
 
                 string humanChoice = Console.ReadLine();
 
